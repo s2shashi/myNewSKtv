@@ -1,0 +1,310 @@
+#EXTM3U
+
+#EXTINF:0, group-title="Hindi",& Pictures
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/01.m3u8
+#EXTINF:0, group-title="Hindi",& Pictures HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226203/01.m3u8
+#EXTINF:0, group-title="Hindi",& TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226048/01.m3u8
+#EXTINF:0, group-title="Hindi",& TV HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8
+#EXTINF:0, group-title="Hindi",9X Jalwa
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226011/01.m3u8
+#EXTINF:0, group-title="Marathi",9X Jhakaas
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226026/01.m3u8
+#EXTINF:0, group-title="Hindi",9X Music
+http://ind28-lh.akamaihd.net/i/ind28_9xm@424619/index_1100.m3u8
+#EXTINF:0, group-title="Hindi",9xM
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/01.m3u8
+#EXTINF:0, group-title="Hindi",Aaj Tak-2
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:0, group-title="Hindi",Abhi Tak
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226252/index.m3u8
+#EXTINF:0, group-title="Marathi",ABP Majha
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226020/01.m3u8
+#EXTINF:0, group-title="Hindi",ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+#EXTINF:0, group-title="Hindi",Anand Media HD
+http://mcdn-play-290.5centscdn.net/amsqanandmedia/anandmedialive.stream/playlist.m3u8
+#EXTINF:0, group-title="English",Animal Planet
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/01.m3u8
+#EXTINF:0, group-title="Hindi",APN News
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226315/1.m3u8IUser-Agent=ExoPlayerDemo
+#EXTINF:0, group-title="English",AXN
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226443/index.m3u8
+#EXTINF:0, group-title="Hindi",B4U Movies
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/01.m3u8
+#EXTINF:0, group-title="Hindi",B4U Music
+http://125.17.129.13/wh7f454c46tw2753977440_1335826470/PLTV/88888888/224/3221226055/01.m3u8IUser-Agent=ExoPlayerDemo
+#EXTINF:0, group-title="Hindi",Bharat Samachar
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226268/index.m3u8
+#EXTINF:0, group-title="Hindi",Big Magic
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225745/index.m3u8
+#EXTINF:0, group-title="Hindi",Cinema TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226246/index.m3u8
+#EXTINF:0, group-title="English",CNN News 18
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3.m3u8
+#EXTINF:0, group-title="Hindi",Desi Beats HD
+http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
+#EXTINF:0, group-title="Hindi",Discovery
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/01.m3u8
+#EXTINF:0, group-title="English",Discovery HD World
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:0, group-title="Hindi",Discovery Jeet
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226447/index.m3u8
+#EXTINF:0, group-title="Hindi",Discovery Kids
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/index.m3u8
+#EXTINF:0, group-title="Hindi",Discovery Science
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:0, group-title="English",Discovery Turbo
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/01.m3u8
+#EXTINF:0, group-title="Hindi",E24
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/01.m3u8
+#EXTINF:0, group-title="Hindi",Enterr 10 
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
+#EXTINF:0, group-title="Marathi",Fakt Marathi
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226305/1.m3u8
+#EXTINF:0, group-title="English",Fashion TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226086/index.m3u8
+#EXTINF:0, group-title="Hindi",Food Food
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225836/01.m3u8
+#EXTINF:0, group-title="Hindi",Home Shop 18
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226354/01.m3u8
+#EXTINF:0, group-title="Hindi",India News
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/indianewsnational_384/playlist.m3u8
+#EXTINF:0, group-title="English",India Today
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226423/index.m3u8
+#EXTINF:0, group-title="Hindi",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/master.m3u8
+#EXTINF:0, group-title="International",Indies Music HD
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:0, group-title="Hindi",Khabrein Abhi Tak
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226252/1.m3u8
+#EXTINF:0, group-title="Hindi",Living Foodz HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226329/index.m3u8
+#EXTINF:0, group-title="Hindi",Maha Movie
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226225/1.m3u8
+#EXTINF:0, group-title="Hindi",Multiplex
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226209/1.m3u8
+#EXTINF:0, group-title="English",NDTV Good Times
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225774/01.m3u8
+#EXTINF:0, group-title="Hindi",NDTV India
+https://ndtvstream-lh.akamaihd.net//i//ndtv_india_1@300634//master.m3u8
+#EXTINF:0, group-title="English",NDTV Prime
+https://ndtvstream-lh.akamaihd.net//i//ndtv_profit_1@300635//master.m3u8
+#EXTINF:0, group-title="English",Neo Prime
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:0, group-title="English",Neo Sports
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:0, group-title="English",New X
+http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/chunklist_w2090785232_b512000.m3u8
+#EXTINF:0, group-title="Hindi",News 18 India
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3.m3u8
+#EXTINF:0, group-title="English",News 18 India
+http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
+#EXTINF:0, group-title="Marathi",News 18 Lokmat
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+#EXTINF:0, group-title="Hindi",News 24
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226138/01.m3u8
+#EXTINF:0, group-title="Hindi",News Nation
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225732/01.m3u8
+#EXTINF:0, group-title="Bangla",News Time
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226287/1.m3u8
+#EXTINF:0, group-title="Oriya",News World
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226034/01.m3u8
+#EXTINF:0, group-title="English",News X
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225796/index.m3u8
+#EXTINF:0, group-title="Hindi",OK India
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226286/1.m3u8
+#EXTINF:0, group-title="Marathi",Saam
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226366/01.m3u8
+#EXTINF:0, group-title="Marathi",Sangeet Marathi
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226222/1.m3u8
+#EXTINF:0, group-title="Hindi",Skystar Movies
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226215/1.m3u8
+#EXTINF:0, group-title="English",Sony ESPN
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225805/01.m3u8
+#EXTINF:0, group-title="Hindi",Sony Max
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/01.m3u8
+#EXTINF:0, group-title="Hindi",Sony Max HD
+http://125.17.129.13/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/01.m3u8|User-Agent=ExoPlayerDemo
+#EXTINF:0, group-title="Hindi",Sony Mix
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/01.m3u8
+#EXTINF:0, group-title="Hindi",Sony Pal
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/1.m3u8
+#EXTINF:0, group-title="Hindi",Sony Pix
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:0, group-title="Hindi",Sony Sab
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/01.m3u8
+#EXTINF:0, group-title="Hindi",Sony Sab HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/01.m3u8
+#EXTINF:0, group-title="English",Sony Six
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/01.m3u8
+#EXTINF:0, group-title="English",Sony Six HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/01.m3u8
+#EXTINF:0, group-title="English",Sony Ten 1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:0, group-title="English",Sony Ten 1 HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:0, group-title="English",Sony Ten 2
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:0, group-title="English",Sony Ten 2 HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/01.m3u8
+#EXTINF:0, group-title="English",Sony Ten 3
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:0, group-title="English",Sony Ten 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/1.m3u8
+#EXTINF:0, group-title="Hindi",Sony TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/01.m3u8
+#EXTINF:0, group-title="Hindi",Sony TV HD
+http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8
+#EXTINF:0, group-title="Hindi",Tez
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226432/index.m3u8
+#EXTINF:0, group-title="Hindi",Wow Cinema
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226263/index.m3u8
+#EXTINF:0, group-title="Marathi",Zee 24 Taas
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225926/01.m3u8
+#EXTINF:0, group-title="Hindi",Zee Action
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/1.m3u8
+#EXTINF:0, group-title="Hindi",Zee Business
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225930/01.m3u8
+#EXTINF:0, group-title="Hindi",Zee Cinema
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/01.m3u8
+#EXTINF:0, group-title="Hindi",Zee Cinema HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
+#EXTINF:0, group-title="Hindi",Zee Etc
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226353/01.m3u8
+#EXTINF:0, group-title="Marathi",Zee Marathi
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225881/01.m3u8
+#EXTINF:0, group-title="Marathi",Zee Marathi HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226278/01.m3u8
+#EXTINF:0, group-title="Hindi",Zee News
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225922/01.m3u8
+#EXTINF:0, group-title="Marathi",Zee Talkies
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225921/01.m3u8
+#EXTINF:0, group-title="Marathi",Zee Talkies HD
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226202/01.m3u8
+#EXTINF:0, group-title="Hindi",Zee TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/01.m3u8
+#EXTINF:0, group-title="Hindi",Zee TV HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/01.m3u8
+#EXTINF:0, group-title="Hindi",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTM3U
+
+#EXTINF:0, group-title="English",Animal Planet (English)
+http://139.59.81.43:8000//live/24684/84981981/90.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",AXN HD
+http://139.59.81.43:8000//live/24684/84981981/139.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Discovery
+http://139.59.81.43:8000//live/24684/84981981/391.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Discovery HD World
+http://139.59.81.43:8000//live/24684/84981981/407.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Discovery Kids 1
+http://139.59.81.43:8000//live/24684/84981981/413.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Discovery Science
+http://139.59.81.43:8000//live/24684/84981981/422.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Discovery Turbo
+http://139.59.81.43:8000//live/24684/84981981/425.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",HBO HD
+http://139.59.81.43:8000//live/24684/84981981/603.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",History HD
+http://139.59.81.43:8000//live/24684/84981981/625.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Housefull Movies
+http://139.59.81.43:8000//live/24684/84981981/640.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Living Foodz
+http://139.59.81.43:8000//live/24684/84981981/856.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Star Sports 1 (1080p)
+http://139.59.81.43:8000//live/24684/84981981/1454.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Star Sports 1
+http://139.59.81.43:8000//live/24684/84981981/1456.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Star Sports 2 (1080p)
+http://139.59.81.43:8000//live/24684/84981981/1458.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Star Sports 2
+http://139.59.81.43:8000//live/24684/84981981/1460.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Star Sports Select HD1 (1080p)
+http://139.59.81.43:8000//live/24684/84981981/1466.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Star Sports Select HD1
+http://139.59.81.43:8000//live/24684/84981981/1468.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Star Sports Select HD2 (1080p)
+http://139.59.81.43:8000//live/24684/84981981/1470.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Star Sports Select HD2
+http://139.59.81.43:8000//live/24684/84981981/1472.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Ten 1
+http://139.59.81.43:8000//live/24684/84981981/1644.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Ten 1HD
+http://139.59.81.43:8000//live/24684/84981981/1648.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Ten 2
+http://139.59.81.43:8000//live/24684/84981981/1649.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Ten 3
+http://139.59.81.43:8000//live/24684/84981981/1658.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Ten2 HD (1080p)
+http://139.59.81.43:8000//live/24684/84981981/1660.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Ten2 HD
+http://139.59.81.43:8000//live/24684/84981981/1662.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="English",Ten3 HD
+http://139.59.81.43:8000//live/24684/84981981/1666.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Animal Planet (Hindi)
+http://139.59.81.43:8000//live/24684/84981981/97.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Cartoon Network (Hindi)
+http://139.59.81.43:8000//live/24684/84981981/196.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Colors HD
+http://139.59.81.43:8000//live/24684/84981981/261.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Discovery Channel (Hindi)
+http://139.59.81.43:8000//live/24684/84981981/397.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Discovery Jeet
+http://139.59.81.43:8000//live/24684/84981981/410.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Discovery Kids 2
+http://139.59.81.43:8000//live/24684/84981981/416.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Movies OK HD 
+http://139.59.81.43:8000//live/24684/84981981/970.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",MTV
+http://139.59.81.43:8000//live/24684/84981981/976.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",MTV Beats HD
+http://139.59.81.43:8000//live/24684/84981981/980.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Music India
+http://139.59.81.43:8000//live/24684/84981981/986.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",News 18 India
+http://139.59.81.43:8000//live/24684/84981981/1028.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Nick (Hindi)
+http://139.59.81.43:8000//live/24684/84981981/1073.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Pogo (Hindi)
+http://139.59.81.43:8000//live/24684/84981981/1134.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Sony SAB
+http://139.59.81.43:8000//live/24684/84981981/1405.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Sony SAB HD
+http://139.59.81.43:8000//live/24684/84981981/1410.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Star Gold HD
+http://139.59.81.43:8000//live/24684/84981981/1440.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Star Plus HD
+http://139.59.81.43:8000//live/24684/84981981/1448.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Star Sports (Hindi) 1 (1080p)
+http://139.59.81.43:8000//live/24684/84981981/1462.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Star Sports (Hindi) 1
+http://139.59.81.43:8000//live/24684/84981981/1464.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Zee Action
+http://139.59.81.43:8000//live/24684/84981981/1800.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Zee Cinema
+http://139.59.81.43:8000//live/24684/84981981/1818.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Zee Cinema HD
+http://139.59.81.43:8000//live/24684/84981981/1822.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Zee News
+http://139.59.81.43:8000//live/24684/84981981/1846.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Zee TV HD
+http://139.59.81.43:8000//live/24684/84981981/1874.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",Zoom
+http://139.59.81.43:8000//live/24684/84981981/1883.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Hindi",India TV
+http://139.59.81.43:8000//live/24684/84981981/677.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Marathi",Colors Marathi HD
+http://139.59.81.43:8000//live/24684/84981981/272.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Marathi",Fakt Marathi
+http://139.59.81.43:8000//live/24684/84981981/521.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Marathi",Star Pravah HD
+http://139.59.81.43:8000//live/24684/84981981/1452.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Marathi",TV9 MH
+http://139.59.81.43:8000//live/24684/84981981/1733.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Marathi",Zee Marathi
+http://139.59.81.43:8000//live/24684/84981981/1843.ts|User-Agent=HD-STM/3.0
+#EXTINF:0, group-title="Marathi",Zee Talkies
+http://139.59.81.43:8000//live/24684/84981981/1864.ts|User-Agent=HD-STM/3.0
