@@ -191,7 +191,8 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 #EXTINF:0, group-title="Hindi",Zoom
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 #EXTM3U
-
+#EXTINF:-1,IN: STAR PLUS HD
+http://163.172.62.63:8000/live/Bhakjd/515533/1718.ts
 #EXTINF:0, group-title="English",Animal Planet (English)
 http://139.59.81.43:8000//live/24684/84981981/90.ts|User-Agent=HD-STM/3.0
 #EXTINF:0, group-title="English",AXN HD
